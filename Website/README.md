@@ -1,10 +1,10 @@
 ### Responsive Restaurant website using Html, Css and JavaScript.
 
-![Restaurant_website](https://github.com/codersgyan/Responsive-restaurant-website/blob/master/restaurant-webpage.jpg)
+![Restaurant_website](https://github.com/amyalbert007/Commercial_website.github.io/blob/main/Website/restaurant-webpage.jpg)
 
 
-#### Demo: https://codersgyan.github.io/Responsive-restaurant-website/
+#### Demo:  https://amyalbert007.github.io/Commercial_website.github.io/
 
 
-🙏 If you find this repo helpful then don't forget to give a start ❇️  to this repository. :)
+
 
